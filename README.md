@@ -1,13 +1,6 @@
 # Kenya Regulatory Documents
 
-Markdown versions of regulatory documents for Kenya, sourced from the DBNSA Regulatory Repository and converted for easy reference and version tracking.
-
-## Documents
-
-| Document | Source File |
-|---|---|
-| [Betting Lotteries And Gaming Act 1966 Revised 2018](Betting_Lotteries_and_Gaming_Act_1966__revised_2018_.md) | Betting Lotteries and Gaming Act 1966 (revised 2018).pdf |
-| [Kenya Country Report Gambling Compliance](Kenya_Country_Report_-_Gambling_Compliance.md) | Kenya Country Report - Gambling Compliance.pdf |
+Markdown versions of regulatory documents for Kenya, extracted from the DBNSA Regulatory Repository.
 
 ## Source
 
