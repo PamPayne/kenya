@@ -1,10 +1,7 @@
-# Kenya Regulatory Documents
+# Kenya Gambling Regulations
 
-Markdown versions of regulatory documents for Kenya, extracted from the DBNSA Regulatory Repository.
+Markdown versions of gambling regulations and regulatory guidelines for Kenya, converted for easy reference and version tracking.
 
-## Source
+## Documents
 
-Documents sourced from the [DBNSA SharePoint Regulatory Repository](https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory%20Repository/Rest%20of%20World/Kenya).
-
----
-*Last updated: 2026-04-30 — maintained by the DBNSA Compliance team.*
+*Document index will be updated once files are processed.*
